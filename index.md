@@ -18,17 +18,14 @@ hero:
     - theme: brand
       text: 参观
       link: /
-    # - theme: alt
-    #   text: 注意力记录
-    #   link: /docs/attention/
 
 features:
   - icon: ⏱️
-    title: 注意力记录
+    title: 注意力周报
     details: 一件东西如果占据了你的注意力，不妨再花点时间记录下来
     link: /docs/attention/
   - icon: 📃 
-    title: 笔记
+    title: 知识库
     details: 复用，复用，复用
   - icon: 💡
     title: 长文思考

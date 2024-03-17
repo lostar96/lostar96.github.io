@@ -12,7 +12,7 @@ export default defineConfig({
 
     nav: [
       { text: '首页', link: '/' },
-      { text: '注意力记录', link: '/attention' }
+      { text: '注意力周报', link: '/docs/attention/' }
     ],
 
     sidebar: {
@@ -20,7 +20,6 @@ export default defineConfig({
         {        
           text: '注意力记录',
           items: [
-          
           ]
         }
 
@@ -34,10 +33,11 @@ export default defineConfig({
 
     sidebarMenuLabel: "目录",
     returnToTopLabel: "回到开头",
-
+    outline: [3,4],
+    outlineTitle: '当前页面',
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/lostar96/lostar96.github.io' }
     ],
   }
 })
