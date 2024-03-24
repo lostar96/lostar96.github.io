@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-CN",
-  title: "Lostar的数字花园",
-  description: "记录、思考、分享",
+  title: "胖大威的数字花园",
+  description: "总是播种，常常期待，有时收获",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -12,7 +12,8 @@ export default defineConfig({
 
     nav: [
       { text: '首页', link: '/' },
-      { text: '注意力周报', link: '/docs/attention/' }
+      { text: '注意力周报', link: '/docs/attention/' },
+      { text: '生活指南', link: '/docs/guide/' }
     ],
 
     sidebar: {
@@ -23,11 +24,18 @@ export default defineConfig({
           ]
         }
 
-      ]
+      ],
+      '/docs/guide': [
+        {        
+          text: '生活指南',
+          items: [
+          ]
+        }
 
+      ]
     },
     footer: {
-      copyright: 'Copyright © 2024-Now Lostar',
+      copyright: 'Copyright © 2024-Now 胖大威',
       message: 'Power By <a href="https://vitepress.dev/zh/">VitePress</a>',
     },
 
