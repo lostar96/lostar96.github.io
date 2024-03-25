@@ -88,7 +88,7 @@ editLink: true
 
 #### 2. 香港徒步画龙
 
-<img src="./resources/images/image-20240324232229790.png" alt="image-20240324232229790" style="zoom:50%;" />
+<img src="./resources/images/image-20240324232229790.png" alt="image-20240324232229790" style="zoom: 33%;" />
 
 徒步爱好者的快乐，龙年画个小恐龙。不得不说第一个画出这条线路的人可真的是人才，有些地方不仔细看都没有发现有条小路
 
@@ -103,7 +103,7 @@ editLink: true
 - 佛教的起源有两种风格，一种古希腊风格，一种古印度风格
 - 巴基斯坦和佛教的渊源原来这么久远，还以为只是中国旁边的一个国家
 
-[犍陀罗艺术展.pdf](resources/attachments/犍陀罗艺术展.pdf) 
+展览资料：[犍陀罗艺术展.pdf](./resources/attachments/犍陀罗艺术展.pdf) 
 
 
 
