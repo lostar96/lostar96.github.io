@@ -103,7 +103,7 @@ editLink: true
 - 佛教的起源有两种风格，一种古希腊风格，一种古印度风格
 - 巴基斯坦和佛教的渊源原来这么久远，还以为只是中国旁边的一个国家
 
-展览资料：[犍陀罗艺术展.pdf](./resources/attachments/the_art_exhibition_of_Gandhara.pdf) 
+展览资料： [犍陀罗艺术展.pdf](/pdf/犍陀罗艺术展.pdf) 
 
 ### 闲言碎语
 
