@@ -19,8 +19,11 @@ export default defineConfig({
     sidebar: {
       '/docs/attention': [
         {        
-          text: '注意力记录',
+          text: '周报',
           items: [
+            { text: '注意力周报#003', link: '/docs/attention/report/attention_003.md' },
+            { text: '注意力周报#002', link: '/docs/attention/report/attention_002.md' },
+            { text: '注意力周报#001', link: '/docs/attention/report/attention_001.md' },
           ]
         }
 
