@@ -21,6 +21,7 @@ export default defineConfig({
         {        
           text: '周报',
           items: [
+            { text: '注意力周报#004', link: '/docs/attention/report/attention_004.md' },
             { text: '注意力周报#003', link: '/docs/attention/report/attention_003.md' },
             { text: '注意力周报#002', link: '/docs/attention/report/attention_002.md' },
             { text: '注意力周报#001', link: '/docs/attention/report/attention_001.md' },
