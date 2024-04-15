@@ -17,7 +17,7 @@ hero:
   actions:
     - theme: brand
       text: 参观
-      link: /
+      link: /docs/about.md
 
 features:
   - icon: 🤔
