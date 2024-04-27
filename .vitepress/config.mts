@@ -21,6 +21,7 @@ export default defineConfig({
         {        
           text: '往期',
           items: [
+            { text: '注意力周报#007', link: '/docs/attention/report/attention_007.md' },
             { text: '注意力周报#006', link: '/docs/attention/report/attention_006.md' },
             { text: '注意力周报#005', link: '/docs/attention/report/attention_005.md' },
             { text: '注意力周报#004', link: '/docs/attention/report/attention_004.md' },
@@ -35,6 +36,17 @@ export default defineConfig({
         {        
           text: '生活指南',
           items: [
+            { 
+              text: '摄影', 
+              items:[
+                { 
+                  text: '设备', 
+                  items:[
+                    { text: '华为手机', link: '/docs/guide/photo/device_huawei.md' },
+                  ]
+                }
+              ]
+            },
           ]
         }
 
