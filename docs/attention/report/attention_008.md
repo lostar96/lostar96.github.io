@@ -7,6 +7,8 @@ editLink: true
 
 ---
 
+## 西北大环线游记
+
 五一假期并且额外休假5天，去了一趟西北青甘大环线爽玩十天4.28-5.7，这两周主要都在休闲放松，没太关注别的，在此简单记录一下这趟西北游记吧
 
 正常来说经典的青甘大环线只需要7+1天（需要提前一天到），从深圳直飞西宁机票太贵了，来回需要3k多，而从珠海飞兰州来回1500搞定，这个差价让我们毫不犹豫选择在兰州中转，没去过兰州还能顺带去转转。兰州-西宁高铁车次多也比较快，就是从深圳到珠海相对麻烦一些，考虑到机票完全可以接受。总共人均8100+，包含机票、报团、门票、吃喝、纪念品等，不买纪念品的情况下，其实只需要7k+，淡季出行还是蛮划算的，而且还没有人从众
@@ -53,15 +55,15 @@ Day10：甘肃省博物馆➡️珠海➡️深圳
 
 第一次到兰州，比想象中要繁华，之前都不知道原来兰州也能看到黄河，特意去坐了一下黄河上的水上巴士，很便宜和公交的价格差不多
 
-<img src="./resources/images/image-20240512234046547.png" alt="image-20240512234046547" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083558803.png" alt="image-20240520083558803" style="zoom:50%;" />
 
 和想象中不一样的是，乘客有点少，而且运营的线路很多站点都关停了，不知道是不是因为人太少了不赚钱都关停了，感觉不是这边主流的出行方式。刚好目的地中山桥附近的点还在运营，然后来中山桥打了个卡
 
-<img src="./resources/images/image-20240513001237279.png" alt="image-20240513001237279" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083615087.png" alt="image-20240520083615087" style="zoom:50%;" />
 
 时间关系没有走到上面的寺，只是在外面和桥上溜达了一下
 
-<img src="./resources/images/image-20240513001248318.png" alt="image-20240513001248318" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083631080.png" alt="image-20240520083631080" style="zoom:50%;" />
 
 关于黄河还有一个印象就是「黄河大合唱」，在抖音刷到的一个露天演唱会，回程路过特意去看了下，现场的氛围确实很赞
 
@@ -71,25 +73,27 @@ Day10：甘肃省博物馆➡️珠海➡️深圳
 
 来到兰州，当然还得有省博物馆！
 
-<img src="./resources/images/image-20240518100457458.png" alt="image-20240518100457458" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083652518.png" alt="image-20240520083652518" style="zoom:50%;" />
 
 本来还想蹭一下免费的公益讲解，但人真的太多了，跟是跟上了，但是展品前的人围的里三圈外三圈，体验太差。想在服务前台拼精品讲解，但是讲解员没了，要下午才有，然而下午要赶飞机，租了个智慧讲解的机子，体验也不是很好。随便找了一个讲解问还有没有耳机，然后就加入了旁听，结束后付费才知道原来在闲鱼上也可以预约讲解的服务，看来下次也还得提前去一些平台上搜索才行。顿时萌生一个退休的去处，当博物馆讲解员！感觉只要熟悉文化、历史，然后熟悉展品就可以了
 
 下面是一些展品，可惜的是还有一些网红展品出差去其他博物馆了，没有看到
 
-<img src="./resources/images/image-20240518101014485.png" alt="image-20240518101014485" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083706594.png" alt="image-20240520083706594" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518101055596.png" alt="image-20240518101055596" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083717383.png" alt="image-20240520083717383" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518101114689.png" alt="image-20240518101114689" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083745470.png" alt="image-20240520083745470" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518101137724.png" alt="image-20240518101137724" style="zoom:50%;" />
+<img src="./resources/images/image-20240520083755665.png" alt="image-20240520083755665" style="zoom:50%;" />
 
 ### 关于西宁
 
-一般走青甘大环线，都会在西宁集散，来早了，就到附近逛逛。朋友本来有推荐一个塔尔寺，但是时间不太允许，然后去了野生动物园，全国只有在这个动物园能看到兔狲，还有高原三傻，而且大部分动物都是救助来的。
+一般走青甘大环线，都会在西宁集散，来早了，就到附近逛逛。印象中听领队说，青海有700多万人口，然后西宁就占了300多万，是整个青海最繁华的城市了，这边还有不少少数名族，有两个民族还没有自己的文字，都是靠口口相传
 
-<img src="./resources/images/image-20240518101821302.png" alt="image-20240518101821302" style="zoom:50%;" />
+朋友本来有推荐一个塔尔寺，但是时间不太允许，然后去了野生动物园，全国只有在这个动物园能看到兔狲，还有高原三傻，而且大部分动物都是救助来的。
+
+<img src="./resources/images/image-20240520084016717.png" alt="image-20240520084016717" style="zoom:50%;" />
 
 接着就开始走大环线，其实整个大环线可以分成几个部分啦，自然景观的有各种高原上的湖、沙漠、特色地貌、祁连草原，人文的基本就是敦煌莫高窟了，然后还夹杂着很多感觉可有可无的景点
 
@@ -103,41 +107,41 @@ Day10：甘肃省博物馆➡️珠海➡️深圳
 
 ##### 青海湖
 
-<img src="./resources/images/image-20240518103657037.png" alt="image-20240518103657037" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084032848.png" alt="image-20240520084032848" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518103711853.png" alt="image-20240518103711853" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084042749.png" alt="image-20240520084042749" style="zoom:50%;" />
 
 ##### 茶卡盐湖
 
 有两个景区，我们去的是天空一号，天空之境第二天就正式开放了，有点可惜。而且也没想象中的好看，人还多，需要等平静的时候才能像镜子，但是人太多，总是会有点涟漪，需要等很久
 
-<img src="./resources/images/image-20240518103800812.png" alt="image-20240518103800812" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084057557.png" alt="image-20240520084057557" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518103815325.png" alt="image-20240518103815325" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084110713.png" alt="image-20240520084110713" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518103829660.png" alt="image-20240518103829660" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084122778.png" alt="image-20240520084122778" style="zoom:50%;" />
 
 ##### 察尔汗盐湖
 
 绿绿的，但也没有网上说的好看
 
-<img src="./resources/images/image-20240518104420329.png" alt="image-20240518104420329" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084214732.png" alt="image-20240520084214732" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518103856652.png" alt="image-20240518103856652" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084235915.png" alt="image-20240520084235915" style="zoom:50%;" />
 
 ##### 东台吉乃尔湖
 
 肉眼可见的蓝！第二好看的湖！手机太难拍出来了，而且风超级大，无人机控制不好的话感觉容易被吹跑
 
-![image-20240518103922378](./resources/images/image-20240518103922378.png)
+<img src="./resources/images/image-20240520084326686.png" style="zoom:50%;" />
 
 ##### 翡翠湖
 
 此行最震撼的湖！感觉还可以再来玩一天，风景好到随手一拍都很出片，无人机航拍YYDS，可惜领队一直在航拍人，不好放出来，网上很多航拍图绝美
 
-<img src="./resources/images/image-20240518105544421.png" alt="image-20240518105544421" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084353768.png" alt="image-20240520084353768" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240518104901405.png" alt="image-20240518104901405" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084404294.png" alt="image-20240520084404294" style="zoom:50%;" />
 
 #### 特色地貌
 
@@ -147,21 +151,23 @@ Day10：甘肃省博物馆➡️珠海➡️深圳
 
 雅丹地貌是经年累月的风蚀行程的特色地貌
 
-<img src="./resources/images/image-20240519213111980.png" alt="image-20240519213111980" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084432419.png" alt="image-20240520084432419" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240519213124260.png" alt="image-20240519213124260" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084443081.png" alt="image-20240520084443081" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240519213141183.png" alt="image-20240519213141183" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084452887.png" alt="image-20240520084452887" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240519213203599.png" alt="image-20240519213203599" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084505898.png" alt="image-20240520084505898" style="zoom:50%;" />
 
 ##### 丹霞地貌
 
 七彩丹霞，也是经过了千万年的地质变化才有如今的模样
 
-<img src="./resources/images/image-20240519213403806.png" alt="image-20240519213403806" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084635736.png" alt="image-20240520084635736" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240519213417677.png" alt="image-20240519213417677" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084622056.png" alt="image-20240520084622056" style="zoom:50%;" />
+
+<img src="./resources/images/image-20240520084649188.png" alt="image-20240520084649188" style="zoom:50%;" />
 
 #### 敦煌
 
@@ -173,7 +179,7 @@ Day10：甘肃省博物馆➡️珠海➡️深圳
 
 我们能看到这么丰富的历史，离不开一群群“敦煌学”的学者，以及当年藏经阁出土的丰富的文物资料。另外一点印象深刻的是，演出散场的时候，演员们都在烈日高温下迎送观众，感受到了满满的诚意
 
-<img src="./resources/images/image-20240519222213771.png" alt="image-20240519222213771" style="zoom: 50%;" />
+<img src="./resources/images/image-20240520084807972.png" alt="image-20240520084807972" style="zoom:50%;" />
 
 而且敦煌的出租车居然只按距离计费，还是政府规定的，真的觉得出租车赚不到钱啊
 
@@ -183,9 +189,9 @@ Day10：甘肃省博物馆➡️珠海➡️深圳
 
 莫高窟能有这样的开凿规模，主要是当时盛行的造佛活动，人们画的佛像越多，参与造的佛像越多，自己积下的功德也越多，从文物来看，当时的造佛活动还是蛮声势浩大的，还跨越了好几个朝代。加上之前看的展览：[文明丽迹-北魏平城与云冈石窟艺术](../report/attention_005.md)和[香林宝像一一犍陀罗艺术展](../report/attention_002.md)，对佛教又多了解了一点点
 
-<img src="./resources/images/image-20240519223913268.png" alt="image-20240519223913268" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084827264.png" alt="image-20240520084827264" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240519223926845.png" alt="image-20240519223926845" style="zoom:50%;" />
+<img src="./resources/images/image-20240520084842938.png" alt="image-20240520084842938" style="zoom:50%;" />
 
 ##### 鸣沙山月牙泉
 
@@ -193,32 +199,56 @@ Day10：甘肃省博物馆➡️珠海➡️深圳
 
 可惜的是，官方的鸣沙山大合唱没有了，这里还有好几个沙漠露营户外基地，可以玩滑沙，沙滩摩托车和篝火晚会，沙漠中蹦野迪！滑沙只能玩三次，不能再多了，滑下去再拉着滑板上山太费力了
 
-<img src="./resources/images/image-20240519230639919.png" alt="image-20240519230639919" style="zoom:50%;" />
+<img src="./resources/images/image-20240520085008978.png" alt="image-20240520085008978" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240519225201482.png" alt="image-20240519225201482" style="zoom:50%;" />
+<img src="./resources/images/image-20240520085028685.png" alt="image-20240520085028685" style="zoom:50%;" />
 
-<img src="./resources/images/image-20240519225221132.png" alt="image-20240519225221132" style="zoom:50%;" />
+<img src="./resources/images/image-20240520085037158.png" alt="image-20240520085037158" style="zoom:50%;" />
 
 #### 祁连大草原
 
 不是7-8月的旺季，草都没有绿，行程还应该有一大批油菜花，但也要到旺季才到花期。可惜旺季人从众，大可不必
 
-<img src="./resources/images/image-20240519230659799.png" alt="image-20240519230659799" style="zoom:50%;" />
+<img src="./resources/images/image-20240520085130964.png" alt="image-20240520085130964" style="zoom:50%;" />
 
 
 
-#### 一些可有可无的点
+#### 其他
+
+#### 沿路上的特色
+
+发电的
+
+<img src="./resources/images/image-20240520085628937.png" alt="image-20240520085628937" style="zoom: 50%;" />
+
+<img src="./resources/images/image-20240520085651893.png" alt="image-20240520085651893" style="zoom:50%;" />
+
+旱厕
+
+<img src="./resources/images/image-20240520085703599.png" alt="image-20240520085703599" style="zoom:50%;" />
+
+#### 还可以的地方
+
+网红315U型公路，看到蛮多人都在马路中间拍照，全然不顾后方的来车，还是蛮危险的。甚至还有人看到车来了都不躲，认定车会礼让自己，可是高车速的重型货车想要急刹可真对它们要求太高了
+
+<img src="./resources/images/image-20240520085333437.png" alt="image-20240520085333437" style="zoom:50%;" />
+
+
+
+#### 没有必要的地方
 
 例如日月山，里面有个文成公主像，还有一个很大的银饰“小卖部”，感觉是低价旅游团的必经之路，门口一车车旅游大巴 
 
-<img src="./resources/images/image-20240518102644695.png" alt="image-20240518102644695" style="zoom:50%;" />
+<img src="./resources/images/image-20240520085149310.png" alt="image-20240520085149310" style="zoom:50%;" />
 
 经幡里面的视角倒是还不错
 
-<img src="./resources/images/image-20240519231036221.png" alt="image-20240519231036221" style="zoom:50%;" />
+<img src="./resources/images/image-20240520085241550.png" alt="image-20240520085241550" style="zoom:50%;" />
 
 最不推荐的还有石油小镇，就是一个废弃的影视城，Get不到破败废土风的美，不过拍拍西部牛仔风的好像还蛮出片
 
-<img src="./resources/images/image-20240518102833065.png" alt="image-20240518102833065" style="zoom:50%;" />
+<img src="./resources/images/image-20240520085225411.png" alt="image-20240520085225411" style="zoom:50%;" />
 
 同类的还有敦煌古城，也是个影城，领队就带我们到门口打了个卡，都不建议我们进去浪费时间和门票
+
+<img src="./resources/images/image-20240520085215195.png" alt="image-20240520085215195" style="zoom:50%;" />
