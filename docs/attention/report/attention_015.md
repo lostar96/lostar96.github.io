@@ -9,6 +9,8 @@ editLink: true
 
 ### 1. Omnivore 稍后读软件
 
+---
+
 刷即刻发现了：[开源read-it-later阅读器（全平台）](https://m.okjike.com/originalPosts/667649fb19d274e2965a99c0?s=eyJ1IjoiNTg4NjNiODNlMjVmMzgwMDE1NmFiYTdiIiwiZCI6MX0%3D)，简单用了一下，我就把我的稍后读体系给迁移过来了，在这之前，我的阅读习惯主要有
 
 - 睡前阅读：微信读书
@@ -27,6 +29,8 @@ editLink: true
 
 ### 2. 太阳的子民-印加人和帝国四方之地
 
+---
+
 <img src="./resources/images/image-20240708232708002.png" alt="image-20240708232708002" style="zoom:50%;" />
 
 周末到南山博物馆看展览，刚好蹭到了讲解，记录一些有意思的点
@@ -37,6 +41,8 @@ editLink: true
 - 还有比埃及更早出现的木乃伊展品....
 
 ### 3. 美剧《毒枭》
+
+---
 
 > 魔幻现实主义产生于哥伦比亚是有原因的
 
